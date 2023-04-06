@@ -4,7 +4,7 @@ title: Infrastructure As Code
 
 # Infrastructure As Code
 
-- [Terraform](/IAC/terraform.md)
+- [Terraform]({{ site.baseurl }}/IAC/terraform.md)
 - Cloudformation
 - Serverless
-- [Tools](/IAC/tools.md)
+- [Tools]({{ site.baseurl }}/IAC/tools.md)

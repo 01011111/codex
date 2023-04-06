@@ -4,4 +4,4 @@ title: React
 
 # React
 
-- [File Structure](/react/structure.md)
+- [File Structure]({{ site.baseurl }}/react/structure.md)

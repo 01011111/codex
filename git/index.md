@@ -26,18 +26,18 @@ _see commands `fetch`, `pull`, `rebase` and `push`_
 
 ## Commands
 
-- [add](/git/add.md)
-- [branch](/git/branch.md)
-- [checkout](/git/checkout.md)
-- [cherry-pick](/git/cherry-pick.md)
-- [commit](/git/commit.md)
-- [fetch](/git/fetch.md)
-- [merge](/git/merge.mg)
-- [pull](/git/pull.md)
-- [push](/git/push.md)
-- [rebase](/git/rebase.md)
-- [reset](/git/reset.md)
+- [add]({{ site.baseurl }}/git/add.md)
+- [branch]({{ site.baseurl }}/git/branch.md)
+- [checkout]({{ site.baseurl }}/git/checkout.md)
+- [cherry-pick]({{ site.baseurl }}/git/cherry-pick.md)
+- [commit]({{ site.baseurl }}/git/commit.md)
+- [fetch]({{ site.baseurl }}/git/fetch.md)
+- [merge]({{ site.baseurl }}/git/merge.mg)
+- [pull]({{ site.baseurl }}/git/pull.md)
+- [push]({{ site.baseurl }}/git/push.md)
+- [rebase]({{ site.baseurl }}/git/rebase.md)
+- [reset]({{ site.baseurl }}/git/reset.md)
 
 ## Practices
 
-- [Branching Strategies](/git/branching/index.md) 
+- [Branching Strategies]({{ site.baseurl }}/git/branching/index.md) 

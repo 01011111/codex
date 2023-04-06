@@ -1,0 +1,6 @@
+title: CODEX
+description: Software Engineering Illustrated Guide
+theme: minimal
+site:
+  url: https://01011111.github.io/codex/
+  baseurl: /codex
