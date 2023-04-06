@@ -7,7 +7,6 @@ description: By engineers, for engineers
 
 - [Authentication / Authorization]({{ site.baseurl }}/auth/)
 - [Git]({{ site.baseurl }}/git/)
-  - [Branching]({{ site.baseurl }}/git/branching/)
 - [IAC]({{ site.baseurl }}/IAC/)
 - [React]({{ site.baseurl }}/react/)
 - [Security]({{ site.baseurl }}/infosec/)
