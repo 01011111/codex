@@ -40,4 +40,4 @@ _see commands `fetch`, `pull`, `rebase` and `push`_
 
 ## Practices
 
-- [Branching Strategies]({{ site.baseurl }}/git/branching/ 
+- [Branching Strategies]({{ site.baseurl }}/git/branching/)

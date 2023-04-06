@@ -38,8 +38,8 @@ Scopes allow the user to have granularity on what they grant access to.
 
 ## More Details
 
-- [Grant Types]({{ site.baseurl }}/auth/oauth2/grant/
+- [Grant Types]({{ site.baseurl }}/auth/oauth2/grant/)
 - [JSON Web Key Set]({{ site.baseurl }}/auth/oauth2/jwks)
 - [JSON Web Token]({{ site.baseurl }}/auth/oauth2/jwt)
-- [OpenID Connect]({{ site.baseurl }}/auth/oauth2/oidc/
+- [OpenID Connect]({{ site.baseurl }}/auth/oauth2/oidc/)
 - [Scopes]({{ site.baseurl }}/auth/oauth2/scopes)
