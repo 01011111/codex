@@ -9,6 +9,7 @@ description: By engineers, for engineers
 - [Git](/git/index.md)
   - [Branching](/git/branching/index.md)
 - [IAC](/IAC/index.md)
+- [React](/react/index.md)
 - [Security](/infosec/index.md)
 - [Tools](/tools/index.md)
 - [Versioning](/versioning/index.md)
