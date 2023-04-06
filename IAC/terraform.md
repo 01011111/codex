@@ -162,7 +162,7 @@ From that data source, you could obtain the `version_id` of the object without o
 
 # File Structures
 
-See [File Structure]({{ site.baseurl }}/IAC/tg-file-structure.md)
+See [File Structure]({{ site.baseurl }}/IAC/tg-file-structure)
 
 # Usage
 

@@ -8,4 +8,4 @@ title: Security
 - MFA
 - GPG
 - Passwords
-- [Tools]({{ site.baseurl }}/infosec/tools.md)
+- [Tools]({{ site.baseurl }}/infosec/tools)
